@@ -4,7 +4,7 @@
 
 # Exemplo de Projeto
 
-## Implementação do jogo Asteroids
+## Implementação do jogo da forca
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
 > 
