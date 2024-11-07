@@ -2,9 +2,9 @@
      width="30%"
      style="padding: 10px">
 
-# Exemplo de Projeto
+# Hangman
 
-## Implementação do jogo da forca
+## Implementação do jogo da Forca
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
 > 
