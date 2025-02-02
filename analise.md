@@ -21,15 +21,13 @@ A implementação deste jogo utilizará a linguagem C++ com o framework Qt para 
    - O Pac-Man só pode se movimentar dentro do labirinto e não pode atravessar paredes.  
 
 **Fantasmas (Inimigos)**  
-   - O jogo deve incluir inimigos (fantasmas) que perseguem o Pac-Man seguindo diferentes estratégias.  
+   - O jogo deve incluir inimigos (fantasmas) que se movimentam no labirinto.  
    - Os fantasmas devem ter movimento autônomo 
 
  **Pontos e Pontuação**  
    - O Pac-Man deve coletar pontos ao passar por cima deles(comer).  
    - A pontuação do jogador deve ser atualizada conforme os pontos são coletados.  
-
-**Power-Ups e Modo de Caça**  
-   - Ao coletar um item especial (power-up), o Pac-Man pode temporariamente "comer" os fantasmas.  
+ 
 
 **Condições de Vitória e Derrota**  
    - O jogo deve terminar quando todos os pontos do labirinto forem coletados (vitória).  
