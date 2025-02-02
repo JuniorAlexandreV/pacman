@@ -41,7 +41,8 @@ A implementação deste jogo utilizará a linguagem C++ com o framework Qt para 
 
 ## Diagrama de Casos de Uso
 
-Apresentar o diagram de casos de uso, identificando as funcionalidades do sistema assim como os atores envolvidos
+![Diagrama caso de uso](https://lucid.app/publicSegments/view/b7b94213-ac2b-4ed0-8739-9dbd283790f4/image.png)
+
  
 ## Diagrama de Domínio do problema
 
