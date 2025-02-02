@@ -2,12 +2,43 @@
 > [!NOTE]
 > <p>A <strong>análise</strong> orientada a objeto consiste na descrição do problema a ser tratado, duas primeiras etapas da tabela abaixo, a definição de casos de uso e a definição do domínio do problema.</p>
 
-
+![Pac-Man]![Pac-Man](https://upload.wikimedia.org/wikipedia/en/5/59/Pac-man.png))
 ## Descrição Geral do domínio do problema
 
 Descrever de forma geral o domínio do problema.
 
-Possíveis requisitos funcionais e não-funcionais podem ser elencados aqui.
+O jogador controla um personagem em formato de círculo amarelo (Pac-Man) dentro de um labirinto. O objetivo é coletar todos os pontos espalhados pelo mapa enquanto evita ser capturado por inimigos (fantasmas) que se movem no labirinto.  
+
+A implementação deste jogo utilizará a linguagem C++ com o framework Qt para desenvolver a interface gráfica e gerenciar os elementos do jogo. O desenvolvimento seguirá o modelo de orientação a objeto, garantindo modularidade e reutilização de código.  
+
+---
+
+## **Requisitos Funcionais**  
+
+ **Movimentação do Pac-Man**  
+   - O jogador deve ser capaz de mover o Pac-Man utilizando as teclas direcionais.  
+   - O Pac-Man só pode se movimentar dentro do labirinto e não pode atravessar paredes.  
+
+**Fantasmas (Inimigos)**  
+   - O jogo deve incluir inimigos (fantasmas) que perseguem o Pac-Man seguindo diferentes estratégias.  
+   - Os fantasmas devem ter movimento autônomo 
+
+ **Pontos e Pontuação**  
+   - O Pac-Man deve coletar pontos ao passar por cima deles(comer).  
+   - A pontuação do jogador deve ser atualizada conforme os pontos são coletados.  
+
+**Power-Ups e Modo de Caça**  
+   - Ao coletar um item especial (power-up), o Pac-Man pode temporariamente "comer" os fantasmas.  
+
+**Condições de Vitória e Derrota**  
+   - O jogo deve terminar quando todos os pontos do labirinto forem coletados (vitória).  
+   - O jogo termina se o Pac-Man perder todas as vidas ao ser capturado pelos fantasmas (derrota).  
+
+**Interface Gráfica**  
+   - O jogo deve apresentar gráficos básicos representando o labirinto, os fantasmas e o Pac-Man.  
+   - A interface deve ser intuitiva e incluir um placar de pontuação.  
+
+---
 
 ## Diagrama de Casos de Uso
 
