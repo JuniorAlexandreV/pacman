@@ -6,8 +6,6 @@
 
 ## Descrição Geral do domínio do problema
 
-Descrever de forma geral o domínio do problema.
-
 O jogador controla um personagem em formato de círculo amarelo (Pac-Man) dentro de um labirinto. O objetivo é coletar todos os pontos espalhados pelo mapa enquanto evita ser capturado por inimigos (fantasmas) que se movem no labirinto.  
 
 A implementação deste jogo utilizará a linguagem C++ com o framework Qt para desenvolver a interface gráfica e gerenciar os elementos do jogo. O desenvolvimento seguirá o modelo de orientação a objeto, garantindo modularidade e reutilização de código.  
