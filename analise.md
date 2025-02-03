@@ -46,7 +46,7 @@ A implementação deste jogo utilizará a linguagem C++ com o framework Qt para 
  
 ## Diagrama de Domínio do problema
 
-![Diagrama de classe](https://lucid.app/publicSegments/view/ad066a89-b06e-4608-b852-37f7069c99ea/image.png)
+![Diagrama de classe](https://lucid.app/publicSegments/view/a4719b60-71eb-4285-9961-c6125e76ef4f/image.png)
 
 
 <div align="center">
