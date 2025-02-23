@@ -1,6 +1,4 @@
 # Análise orientada a objeto
-> [!NOTE]
-> <p>A <strong>análise</strong> orientada a objeto consiste na descrição do problema a ser tratado, duas primeiras etapas da tabela abaixo, a definição de casos de uso e a definição do domínio do problema.</p>
 
 ![Pac-Man](https://upload.wikimedia.org/wikipedia/en/5/59/Pac-man.png))
 
