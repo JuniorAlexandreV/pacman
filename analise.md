@@ -38,7 +38,7 @@ A implementação deste jogo utilizará a linguagem C++ com o framework Qt para 
 ## Diagrama de Casos de Uso
 
 ![Diagrama caso de uso](https://lucid.app/publicSegments/view/b7b94213-ac2b-4ed0-8739-9dbd283790f4/image.png)
-# Caso de Uso: Jogar Pac-Man
+# Caso de Uso: Pac-Man
 
 ## 1.1 Objetivo  
 Este caso de uso descreve a lógica principal do jogo Pac-Man.
