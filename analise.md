@@ -89,7 +89,7 @@ Este caso de uso descreve a lógica principal do jogo Pac-Man.
  
 ## Diagrama de Domínio do problema
 
-![Diagrama de classe](https://lucid.app/publicSegments/view/0b4d499d-894d-4b2f-85d1-3d7338ccd239/image.pdf)
+![Diagrama caso de uso]([https://lucid.app/publicSegments/view/b7b94213-ac2b-4ed0-8739-9dbd283790f4/image.png](https://lucid.app/publicSegments/view/e7ca03dc-9ebd-43ef-b9fd-29d8cc5ac87a/image.png))
 
 
 <div align="center">
