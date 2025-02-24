@@ -41,10 +41,10 @@ A implementação deste jogo utilizará a linguagem C++ com o framework Qt para 
 # Caso de Uso: Pac-Man
 
 ## 1.1 Objetivo  
-Este caso de uso descreve a lógica principal do jogo Pac-Man.
+Coletar todos os pontos do labirinto e evitar colisões com os fantasamas.
 
 ## 1.2 Requisitos  
-- Jogar o jogo Pac-Man
+- Mover o personagem com os direcionais.
 
 ## 1.3 Atores  
 - **Jogador**
@@ -56,7 +56,7 @@ Este caso de uso descreve a lógica principal do jogo Pac-Man.
 - O jogo deve estar inicializado com o labirinto carregado e os personagens posicionados corretamente.
 
 ## 1.6 Freqüência de uso  
-- Não se aplica.
+-------------
 
 ## 1.7 Criticalidade  
 - **ALTA**
@@ -70,7 +70,7 @@ Este caso de uso descreve a lógica principal do jogo Pac-Man.
 2. O jogo inicia e Pac-Man pode ser movido pelo jogador através das teclas direcionais.  
 3. Os fantasmas começam a se movimentar seguindo um comportamento aleatório.  
 4. Quando Pac-Man se move, ele coleta pontos ao passar pelas células do labirinto.  
-5. Se Pac-Man colide com um fantasma, ele perde uma vida.  
+5. Se o Pac-Man colide com um fantasma, ele perde uma vida.  
 6. O jogo continua até que Pac-Man perca todas as vidas ou o jogador colete todos os pontos do labirinto.  
 7. O sistema exibe o resultado da partida.  
 
@@ -83,7 +83,7 @@ Este caso de uso descreve a lógica principal do jogo Pac-Man.
 - Os fantasmas seguem padrões de movimentação específicos.  
 - O jogador deve evitar os fantasmas para continuar jogando.  
 - A pontuação é baseada no número de pontos coletados no labirinto.  
-- Se Pac-Man perder todas as vidas, a partida termina.  
+- Se o Pac-Man perder todas as vidas, a partida termina.  
 
 
  
